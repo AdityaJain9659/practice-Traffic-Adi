@@ -1,0 +1,39 @@
+{
+  "ts": 1,
+  "avg_travel_time": null,
+  "avg_wait_time": 6484.334,
+  "vehicles_in_system": 146,
+  "baseline_avg_travel_time": null,
+  "selected_intersection": "C",
+  "intersections": {
+    "C": {
+      "current_phase": 6,
+      "queues": [
+        13,
+        16,
+        66,
+        13
+      ],
+      "name": "Intersection C"
+    }
+  },
+  "time_series": {
+    "t": [
+      1
+    ],
+    "rl_avg_travel_time": [
+      null
+    ],
+    "baseline_avg_travel_time": [
+      null
+    ]
+  },
+  "latest_frame_path": "",
+  "traffic_phases": {
+    "0": "North-South Green",
+    "1": "East-West Green",
+    "2": "All Red (Transition)",
+    "3": "North-South Yellow",
+    "4": "East-West Yellow"
+  }
+}
